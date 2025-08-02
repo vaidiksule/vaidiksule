@@ -1,9 +1,56 @@
-- 👋 Hi, I’m @vaidiksule
-- 👀 I’m interested in Python and mostly ML
-- 🌱 I’m currently learning DJango and CV.
-- 📫 Reach me via mail - vaidiksulemusic@gmail.com
+# 👋 Hi, I'm Vaidik Sule
 
-<!---
-vaidiksule/vaidiksule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Tech enthusiast | 🧠 AI Builder | 🎤 Music Creator | 🌏 MS CS aspirant (2027)
+
+---
+
+## 🛠 What I’m Building
+
+### ⚙️ VisionParse
+AI-powered document parser that extracts structured data (CSV/XML/JSON) from PDFs, images & invoices.  
+Built with: Django + MongoDB + Celery + OpenAI + Tailwind + shadcn/ui
+
+🔗 Live Soon | 💻 [Private MVP Preview Available]
+
+---
+
+### 📬 SmartInbox
+Email assistant for creators and professionals — auto-sorts, summarizes, tags, and reduces overload.  
+Backed by: Qdrant vector search + GPT-4o + Google OAuth
+
+🔗 MVP: [smartinbox-j5c63co.gamma.site](https://smartinbox-j5c63co.gamma.site)
+
+---
+
+## 🧰 Stack I Love
+
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks**: Django, Next.js, Tailwind CSS  
+- **Databases**: MongoDB, PostgreSQL  
+- **AI Tools**: OpenAI API, Gemini Pro, LangChain  
+- **Infra**: Render, Vercel, Redis, Celery  
+- **Extras**: shadcn/ui, OCR, semantic search, prompt engineering
+
+---
+
+## 💡 Interests & Projects
+
+- 🛠 Micro-SaaS and API-first tools  
+- 🧠 Building with AI (parsing, summarization, vector DBs)  
+- 💻 Hackathons (duo or solo — depends on a coin flip 😅)  
+- 🌍 Planning MS in CS (CMU, MIT, Cornell – 2027 prep underway)  
+- 🎶 Music Producer & Singer (side passion)
+
+---
+
+## 📫 Let’s Connect
+
+- Email: vaidik.sule@example.com *(replace with real one)*  
+- LinkedIn: [linkedin.com/in/vaidik-sule](#)  
+- Twitter / X: [@vaidiksule](#)  
+- Portfolio: *(Coming Soon)*
+
+---
+
+> ⚠️ Currently working on some 🔥 ideas – follow for updates, drops & dev logs.
+
