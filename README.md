@@ -37,17 +37,15 @@ Backed by: Qdrant vector search + GPT-4o + Google OAuth
 
 - 🛠 Micro-SaaS and API-first tools  
 - 🧠 Building with AI (parsing, summarization, vector DBs)  
-- 💻 Hackathons (duo or solo — depends on a coin flip 😅)  
-- 🌍 Planning MS in CS (CMU, MIT, Cornell – 2027 prep underway)  
+- 💻 Hackathons
 - 🎶 Music Producer & Singer (side passion)
 
 ---
 
 ## 📫 Let’s Connect
 
-- Email: vaidik.sule@example.com *(replace with real one)*  
-- LinkedIn: [linkedin.com/in/vaidik-sule](#)  
-- Twitter / X: [@vaidiksule](#)  
+- Email: vaidiksule@gmail.com 
+- LinkedIn: [linkedin.com/in/vaidik-sule](https://linkedin.com/in/vaidiksule)   
 - Portfolio: *(Coming Soon)*
 
 ---
