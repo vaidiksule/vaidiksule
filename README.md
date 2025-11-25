@@ -1,54 +1,68 @@
-# 👋 Hi, I'm Vaidik Sule
+# 👋 Hey, I'm **Vaidik Sule**
 
-🚀 Tech enthusiast | 🧠 AI Builder | 🎤 Music Creator | 🌏 MS CS aspirant (2027)
-
----
-
-## 🛠 What I’m Building
-
-### ⚙️ VisionParse
-AI-powered document parser that extracts structured data (CSV/XML/JSON) from PDFs, images & invoices.  
-Built with: Django + MongoDB + Celery + OpenAI + Tailwind + shadcn/ui
-
-🔗 Live Soon | 💻 [Private MVP Preview Available]
+🚀 **AI Builder** • 🎤 **Music Creator** • 💡 **Micro-SaaS Developer**  
+🌱 *High-school CS aspirant (2027) building real products early.*
 
 ---
 
-### 📬 SmartInbox
-Email assistant for creators and professionals — auto-sorts, summarizes, tags, and reduces overload.  
-Backed by: Qdrant vector search + GPT-4o + Google OAuth
+## 🚧 What I’m Currently Building
 
-🔗 MVP: [smartinbox-j5c63co.gamma.site](https://smartinbox-j5c63co.gamma.site)
+I love creating **practical AI tools** that solve real problems — fast, simple, and API-first.
 
----
+### 🔥 Active Projects
+- **GetSentimate** — AI analytics tool for YouTubers that summarizes, filters and analyzes comments.  
+  → *Live at:* https://getsentimate.com  
+- **IdeaRefiner** — Startup idea analyzer powered by Gemini for structured breakdowns, scores, and insights.
 
-## 🧰 Stack I Love
-
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, Next.js, Tailwind CSS  
-- **Databases**: MongoDB, PostgreSQL  
-- **AI Tools**: OpenAI API, Gemini Pro, LangChain  
-- **Infra**: Render, Vercel, Redis, Celery  
-- **Extras**: shadcn/ui, OCR, semantic search, prompt engineering
-
----
-
-## 💡 Interests & Projects
-
-- 🛠 Micro-SaaS and API-first tools  
-- 🧠 Building with AI (parsing, summarization, vector DBs)  
-- 💻 Hackathons
-- 🎶 Music Producer & Singer (side passion)
+### 🧪 Experimenting With
+- Agentic AI systems  
+- Lightweight SaaS tools  
+- Parsing, summarization, and automation using LLMs  
+- Django + MongoDB + OCR + Vector search  
+- Clean UI/UX with Next.js + Tailwind + shadcn/ui
 
 ---
 
-## 📫 Let’s Connect
+## 🛠 Tech Stack I Work With
 
-- Email: vaidiksule@gmail.com 
-- LinkedIn: [linkedin.com/in/vaidik-sule](https://linkedin.com/in/vaidiksule)   
-- Portfolio: *(Coming Soon)*
+**Languages**  
+- Python, JavaScript, SQL  
+
+**Frameworks & Tools**  
+- Django, Next.js, Tailwind CSS, shadcn/ui, Celery, Redis  
+
+**Databases**  
+- MongoDB, PostgreSQL, Qdrant  
+
+**AI & ML**  
+- OpenAI (GPT-4o), Gemini 2.5, LangChain, OCR pipelines  
+
+**Infra & DevOps**  
+- Render, Vercel, GitHub Actions  
 
 ---
 
-> ⚠️ Currently working on some 🔥 ideas – follow for updates, drops & dev logs.
+## 💡 What I Love Building
+- Micro-SaaS products  
+- API-first tools  
+- AI automation  
+- Data extraction & summarization systems  
+- Clean, minimal web apps  
+- Developer-friendly UIs  
 
+---
+
+## 🎤 Outside Tech
+I’m also a **singer, music producer, and songwriter** — creating tracks whenever I’m not coding.
+
+---
+
+## 📫 Connect With Me
+
+**Email:** `vaidiksule@gmail.com`  
+**LinkedIn:** https://linkedin.com/in/vaidik-sule  
+**Portfolio:** *(coming soon)*
+
+---
+
+> 🔔 Follow my GitHub — I’m building in public and dropping new projects regularly.
