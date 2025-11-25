@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Vaidik Sule**
 
 🚀 **AI Builder** • 🎤 **Music Creator** • 💡 **Micro-SaaS Developer**  
-🌱 *High-school CS aspirant (2027) building real products early.*
+🌱 *CS (2027) building real products early.*
 
 ---
 
