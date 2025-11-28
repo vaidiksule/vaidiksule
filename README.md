@@ -60,7 +60,7 @@ I’m also a **singer, music producer, and songwriter** — creating tracks when
 ## 📫 Connect With Me
 
 **Email:** `vaidiksule@gmail.com`  
-**LinkedIn:** https://linkedin.com/in/vaidik-sule  
+**LinkedIn:** https://linkedin.com/in/vaidiksule  
 **Portfolio:** *(coming soon)*
 
 ---
