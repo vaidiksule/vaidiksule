@@ -1,36 +1,27 @@
 # Vaidik Sule
 
-Building software people actually use.
+Building software people genuinely enjoy using.
 
-Currently working on Lazur, a desktop application that helps people turn spoken thoughts into polished writing.
+Currently building **Lazur**, a voice-first desktop app that turns spoken thoughts into polished writing.
 
-Interested in product design, human-computer interaction, AI, and systems that remove friction from everyday work.
+Previously built:
+- **GetSentimate** — AI YouTube audience intelligence
+- **BentoMint** — Chrome extension for beautiful product screenshots
+- **RoastThePage** — AI landing page auditor
 
-I enjoy building from first principles, shipping quickly, and learning through execution.
+Interested in:
+- AI
+- Product Design
+- Human–Computer Interaction
+- Desktop Software
+- Developer Tools
 
-Outside of technology, I write and produce music.
-
----
-
-### Current Project
-
-**Lazur**
-https://lazur.app
-
-Voice-first software for people who think faster than they type.
-
----
-
-### Previous Projects
-
-* [GetSentimate](https://getsentimate.com)
-* [Bentomint](https://bentomint.dev)
-* [RoastThePage](https://roastthepage.com)
+Outside of programming, I write and produce music.
 
 ---
 
-### Connect
+**Current:** https://lazur.app
 
-Email: [vaidiksule@gmail.com](mailto:vaidiksule@gmail.com)
+**LinkedIn:** https://linkedin.com/in/vaidiksule
 
-LinkedIn: [vaidiksule](https://linkedin.com/in/vaidiksule)
+**Email:** vaidiksule@gmail.com
