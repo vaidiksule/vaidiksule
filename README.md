@@ -5,9 +5,10 @@ Building software people genuinely enjoy using.
 Currently building **Lazur**, a voice-first desktop app that turns spoken thoughts into polished writing.
 
 Previously built:
-- **GetSentimate** — AI YouTube audience intelligence
+- **GetSentimate** — AI YouTube audience intelligence 
 - **BentoMint** — Chrome extension for beautiful product screenshots
 - **RoastThePage** — AI landing page auditor
+- **AmISearchable** - AI Crawlability Badge for REAME 
 
 Interested in:
 - AI
