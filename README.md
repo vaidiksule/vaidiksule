@@ -1,14 +1,14 @@
-# Vaidik Sule
+# Vaidik Sule **[➹](https://vaidik.tech)**
 
 Building software people genuinely enjoy using.
 
-Currently building **Lazur**, a voice-first desktop app that turns spoken thoughts into polished writing.
+Currently building **[Lazur](https://lazur.app)**, a voice-first desktop app that turns spoken thoughts into polished writing.
 
 Previously built:
-**[GetSentimate](https://getsentimate.com)** — AI YouTube audience intelligence  
-**[BentoMint](https://bentomint.dev)** — Chrome extension for beautiful product screenshots  
-**[RoastThePage](https://roastthepage.com)** — AI landing page auditor  
-**[AmISearchable](https://amiserchable.cc)** — AI Crawlability Badge for REAME
+- **[GetSentimate](https://getsentimate.com)** — AI YouTube audience intelligence  
+- **[BentoMint](https://bentomint.dev)** — Chrome extension for beautiful product screenshots  
+- **[RoastThePage](https://roastthepage.com)** — AI landing page auditor  
+- **[AmISearchable](https://amiserchable.cc)** — AI Crawlability Badge for REAME
 
 Interested in:
 - AI
